@@ -2,8 +2,8 @@ import turtle
 import time
 
 
-zelva = turtle.Turtle("square")
-window = turtle.setup(600, 600)
+zelva = turtle.Turtle("turtle")
+window = turtle.setup(800, 800)
 window = turtle.bgcolor(244/255, 255/255, 28/255)
 
 zelva.penup()
